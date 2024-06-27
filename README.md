@@ -3,6 +3,10 @@
 This Jupyter Notebook is designed to extract stock data from Yahoo Finance, process the data to calculate market capitalization weights, and create a custom stock index. The notebook also includes functionality to visualize the data and save the processed results to a CSV file.
 
 
+<img alt="Screenshot 2024-06-27 at 14 52 19" src="https://github.com/XingyuLu-01/Extracting-Stock-Data-from-Yfinance/assets/81729135/55c22a92-ac75-4ecd-931f-63d7f1799027">
+
+
+
 ### Features
 
 	•	Stock Data Extraction: Retrieve historical stock data for a list of specified companies from Yahoo Finance.
